@@ -42,7 +42,9 @@ reviews and methodological or technological findings. Although there are
 limitations (resources) in representing all the interactions between roles 
 and environments, this flow has been included to highlight the eventual 
 complexity in communication.
-![Flujo de Datos conceptual.jpg](..%2F..%2F..%2F..%2F..%2FDownloads%2FFlujo%20de%20Datos%20conceptual.jpg)
+
+![Flujo de Datos conceptual.jpg](data%2Fimages%2FFlujo%20de%20Datos%20conceptual.jpg)
+
 Specifically, it describes the transition from raw data ingestion to the 
 production deployment of the model, including information preprocessing, 
 splitting into training and validation datasets, parameter tuning 
@@ -51,7 +53,8 @@ While providing an exhaustive methodological description for each of these
 stages is not the scope of this document, each will be addressed 
 circumstantially in the section on challenges solved in the context of this 
 application.
-![Flujo de Datos sobre la arquitectura.jpg](..%2F..%2F..%2F..%2F..%2FDownloads%2FFlujo%20de%20Datos%20sobre%20la%20arquitectura.jpg)
+
+![Flujo de Datos sobre la arquitectura.jpg](data%2Fimages%2FFlujo%20de%20Datos%20sobre%20la%20arquitectura.jpg)
 
 ## Data
 ### Column Descriptions
